@@ -94,3 +94,5 @@ D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\e
 D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
 D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.dll
 D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.pdb
+D:\Mukesh sir\Chandigarh online\rccc\ecommrce\obj\Debug\ecommrce.dll
+D:\Mukesh sir\Chandigarh online\rccc\ecommrce\obj\Debug\ecommrce.pdb
