@@ -1,0 +1,96 @@
+E:\dsg\ecommrce\ecommrce\bin\ecommrce.dll.config
+E:\dsg\ecommrce\ecommrce\bin\ecommrce.dll
+E:\dsg\ecommrce\ecommrce\bin\ecommrce.pdb
+E:\dsg\ecommrce\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dsg\ecommrce\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dsg\ecommrce\ecommrce\obj\Debug\ecommrce.csprojResolveAssemblyReference.cache
+E:\dsg\ecommrce\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+E:\dsg\ecommrce\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
+E:\dsg\ecommrce\ecommrce\obj\Debug\ecommrce.dll
+E:\dsg\ecommrce\ecommrce\obj\Debug\ecommrce.pdb
+F:\xxxx\ecommrce\ecommrce\bin\ecommrce.dll.config
+F:\xxxx\ecommrce\ecommrce\bin\ecommrce.dll
+F:\xxxx\ecommrce\ecommrce\bin\ecommrce.pdb
+F:\xxxx\ecommrce\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\xxxx\ecommrce\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\xxxx\ecommrce\ecommrce\obj\Debug\ecommrce.csprojResolveAssemblyReference.cache
+F:\xxxx\ecommrce\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+F:\xxxx\ecommrce\ecommrce\obj\Debug\ecommrce.dll
+F:\xxxx\ecommrce\ecommrce\obj\Debug\ecommrce.pdb
+D:\01092018evening\dave\ecommrce\bin\ecommrce.dll.config
+D:\01092018evening\dave\ecommrce\bin\ecommrce.dll
+D:\01092018evening\dave\ecommrce\bin\ecommrce.pdb
+D:\01092018evening\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\01092018evening\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\01092018evening\dave\ecommrce\obj\Debug\ecommrce.csprojAssemblyReference.cache
+D:\01092018evening\dave\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+D:\01092018evening\dave\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
+D:\01092018evening\dave\ecommrce\obj\Debug\ecommrce.dll
+D:\01092018evening\dave\ecommrce\obj\Debug\ecommrce.pdb
+F:\01092018\ecommrce\dave\ecommrce\bin\ecommrce.dll.config
+F:\01092018\ecommrce\dave\ecommrce\bin\ecommrce.dll
+F:\01092018\ecommrce\dave\ecommrce\bin\ecommrce.pdb
+F:\01092018\ecommrce\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\01092018\ecommrce\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\01092018\ecommrce\dave\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+F:\01092018\ecommrce\dave\ecommrce\obj\Debug\ecommrce.dll
+F:\01092018\ecommrce\dave\ecommrce\obj\Debug\ecommrce.pdb
+F:\01092018\ecommrce\dave\ecommrce\obj\Debug\ecommrce.csprojResolveAssemblyReference.cache
+D:\21092018\dave\ecommrce\bin\ecommrce.dll.config
+D:\21092018\dave\ecommrce\bin\ecommrce.dll
+D:\21092018\dave\ecommrce\bin\ecommrce.pdb
+D:\21092018\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\21092018\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\21092018\dave\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+D:\21092018\dave\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
+D:\21092018\dave\ecommrce\obj\Debug\ecommrce.dll
+D:\21092018\dave\ecommrce\obj\Debug\ecommrce.pdb
+D:\21092018\dave\ecommrce\obj\Debug\ecommrce.csprojAssemblyReference.cache
+D:\10102018\dave\ecommrce\bin\ecommrce.dll.config
+D:\10102018\dave\ecommrce\bin\ecommrce.dll
+D:\10102018\dave\ecommrce\bin\ecommrce.pdb
+D:\10102018\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\10102018\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\10102018\dave\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+D:\10102018\dave\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
+D:\10102018\dave\ecommrce\obj\Debug\ecommrce.dll
+D:\10102018\dave\ecommrce\obj\Debug\ecommrce.pdb
+D:\10102018\dave\ecommrce\obj\Debug\ecommrce.csprojAssemblyReference.cache
+F:\26092018\dave\ecommrce\bin\ecommrce.dll.config
+F:\26092018\dave\ecommrce\bin\ecommrce.dll
+F:\26092018\dave\ecommrce\bin\ecommrce.pdb
+F:\26092018\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\26092018\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\26092018\dave\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+F:\26092018\dave\ecommrce\obj\Debug\ecommrce.dll
+F:\26092018\dave\ecommrce\obj\Debug\ecommrce.pdb
+F:\26092018\dave\ecommrce\obj\Debug\ecommrce.csprojResolveAssemblyReference.cache
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\bin\ecommrce.dll.config
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\bin\ecommrce.dll
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\bin\ecommrce.pdb
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\obj\Debug\ecommrce.csprojAssemblyReference.cache
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\obj\Debug\ecommrce.dll
+F:\DALJEET MYWORK\ecommerce website code\dave\ecommrce\obj\Debug\ecommrce.pdb
+D:\Mukesh sir\Code\dave\ecommrce\bin\ecommrce.dll.config
+D:\Mukesh sir\Code\dave\ecommrce\bin\ecommrce.dll
+D:\Mukesh sir\Code\dave\ecommrce\bin\ecommrce.pdb
+D:\Mukesh sir\Code\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mukesh sir\Code\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mukesh sir\Code\dave\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+D:\Mukesh sir\Code\dave\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
+D:\Mukesh sir\Code\dave\ecommrce\obj\Debug\ecommrce.dll
+D:\Mukesh sir\Code\dave\ecommrce\obj\Debug\ecommrce.pdb
+D:\Mukesh sir\Code\dave\ecommrce\obj\Debug\ecommrce.csproj.AssemblyReference.cache
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\bin\ecommrce.dll.config
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\bin\ecommrce.dll
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\bin\ecommrce.pdb
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.csproj.AssemblyReference.cache
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.csproj.CoreCompileInputs.cache
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.csproj.CopyComplete
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.dll
+D:\Mukesh sir\wetransfer_dave-rar_2022-02-05_1723\dave\dave\ecommrce\obj\Debug\ecommrce.pdb

@@ -1,0 +1,81 @@
+﻿<style type="text/css">
+    .modal-dialog {
+        margin-top: 10%;
+    }
+
+    .modal-backdrop.in {
+        opacity: 10;
+    }
+
+    label {
+        margin-top: 7px;
+        margin-bottom: 0;
+        padding: 0;
+    }
+
+    .requiredspan {
+        color: #ff0000;
+    }
+</style>
+
+
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+<div id="modalInserUpdateDocsData" class="modal-content">
+
+  
+
+   
+
+    <div class="bt-drop-in-wrapper">
+        <div id="dropin-container"></div>
+    </div>
+    <a id="submit-button" class="order" href="" ng-click="Order()">Place Order</a>
+
+    <!--<div class="container section login">
+        <div class="row shdw-bx">
+            <div class="col-md-6">
+                <div class="bt-drop-in-wrapper">
+                    <div id="dropin-container"></div>
+                </div>
+            </div>
+            <div class="col-md-6 paypal">
+                <img src="../../ItemImage/paypal.png" alt="pay with paypal" />
+
+                <h2> Paypal is the safer, easier way to pay.</h2>
+                <p>No matter where you shop, we keep your financial information secure. </p>
+            </div>
+            <button id="submit-button">Request payment method</button>
+            <div class="col-md-12"> <a id="submit-button" class="order red-btn" href="" ng-click="Order()">Place Order</a></div>
+        </div>
+    </div>
+
+    <script>
+        var button = document.querySelector('#submit-button');
+
+        braintree.dropin.create({
+            authorization: 'CLIENT_AUTHORIZATION',
+            container: '#dropin-container'
+        }, function (createErr, instance) {
+            button.addEventListener('click', function () {
+                instance.requestPaymentMethod(function (requestPaymentMethodErr, payload) {
+                    // Submit payload.nonce to your server
+                });
+            });
+        });
+    </script>-->
+    <!--<form id="checkout" method="post" action="/checkout">
+        <div id="payment-form"></div>
+        <input type="submit" value="Pay $10">
+    </form>
+
+    <script src="https://js.braintreegateway.com/js/braintree-2.32.1.min.js"></script>
+    <script>
+
+        var clientToken = "eyJ2ZXJzaW9uIjoyLCJhdXRob3JpemF0aW9uRmluZ2VycHJpbnQiOiJiMzZmNDQ4YTNkNDZkODNiMjBjNzgxMmRhMTU0MWRlYzZkZjMwZjMzODFiMzY1MmE1MzBiNDg4NDRkNmQ2MTc0fGNyZWF0ZWRfYXQ9MjAxOC0wOS0xOVQxMDowMTo0OS4wNTk5ODA1NzUrMDAwMFx1MDAyNm1lcmNoYW50X2lkPTM0OHBrOWNnZjNiZ3l3MmJcdTAwMjZwdWJsaWNfa2V5PTJuMjQ3ZHY4OWJxOXZtcHIiLCJjb25maWdVcmwiOiJodHRwczovL2FwaS5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tOjQ0My9tZXJjaGFudHMvMzQ4cGs5Y2dmM2JneXcyYi9jbGllbnRfYXBpL3YxL2NvbmZpZ3VyYXRpb24iLCJncmFwaFFMIjp7InVybCI6Imh0dHBzOi8vcGF5bWVudHMuc2FuZGJveC5icmFpbnRyZWUtYXBpLmNvbS9ncmFwaHFsIiwiZGF0ZSI6IjIwMTgtMDUtMDgifSwiY2hhbGxlbmdlcyI6W10sImVudmlyb25tZW50Ijoic2FuZGJveCIsImNsaWVudEFwaVVybCI6Imh0dHBzOi8vYXBpLnNhbmRib3guYnJhaW50cmVlZ2F0ZXdheS5jb206NDQzL21lcmNoYW50cy8zNDhwazljZ2YzYmd5dzJiL2NsaWVudF9hcGkiLCJhc3NldHNVcmwiOiJodHRwczovL2Fzc2V0cy5icmFpbnRyZWVnYXRld2F5LmNvbSIsImF1dGhVcmwiOiJodHRwczovL2F1dGgudmVubW8uc2FuZGJveC5icmFpbnRyZWVnYXRld2F5LmNvbSIsImFuYWx5dGljcyI6eyJ1cmwiOiJodHRwczovL29yaWdpbi1hbmFseXRpY3Mtc2FuZC5zYW5kYm94LmJyYWludHJlZS1hcGkuY29tLzM0OHBrOWNnZjNiZ3l3MmIifSwidGhyZWVEU2VjdXJlRW5hYmxlZCI6dHJ1ZSwicGF5cGFsRW5hYmxlZCI6dHJ1ZSwicGF5cGFsIjp7ImRpc3BsYXlOYW1lIjoiQWNtZSBXaWRnZXRzLCBMdGQuIChTYW5kYm94KSIsImNsaWVudElkIjpudWxsLCJwcml2YWN5VXJsIjoiaHR0cDovL2V4YW1wbGUuY29tL3BwIiwidXNlckFncmVlbWVudFVybCI6Imh0dHA6Ly9leGFtcGxlLmNvbS90b3MiLCJiYXNlVXJsIjoiaHR0cHM6Ly9hc3NldHMuYnJhaW50cmVlZ2F0ZXdheS5jb20iLCJhc3NldHNVcmwiOiJodHRwczovL2NoZWNrb3V0LnBheXBhbC5jb20iLCJkaXJlY3RCYXNlVXJsIjpudWxsLCJhbGxvd0h0dHAiOnRydWUsImVudmlyb25tZW50Tm9OZXR3b3JrIjp0cnVlLCJlbnZpcm9ubWVudCI6Im9mZmxpbmUiLCJ1bnZldHRlZE1lcmNoYW50IjpmYWxzZSwiYnJhaW50cmVlQ2xpZW50SWQiOiJtYXN0ZXJjbGllbnQzIiwiYmlsbGluZ0FncmVlbWVudHNFbmFibGVkIjp0cnVlLCJtZXJjaGFudEFjY291bnRJZCI6ImFjbWV3aWRnZXRzbHRkc2FuZGJveCIsImN1cnJlbmN5SXNvQ29kZSI6IlVTRCJ9LCJtZXJjaGFudElkIjoiMzQ4cGs5Y2dmM2JneXcyYiIsInZlbm1vIjoib2ZmIn0=";
+
+        braintree.setup(clientToken, "dropin", {
+            container: "payment-form"
+        });
+    </script>-->
+</div>
